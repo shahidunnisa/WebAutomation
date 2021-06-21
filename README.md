@@ -9,7 +9,7 @@ This Project is intended to validate "http://automationpractice.com/" website an
 1. Cucumber - Used to implement the BDD(Behaviour Driven Development). This provides more readability and comprehensive testing and is understandable by each member in team.
 2. Selenium - Automation testing framework to validate the web based applications.
 3. Junit - Required to add assertions and to give priority to test cases.
-4. Design Patten - Page object Model(POM)
+4. Design Pattern - Page object Model(POM)
 5. Programming language: Java
 6. Build Automation Tool: Maven
 7. Version Control: Github
