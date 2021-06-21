@@ -32,7 +32,7 @@ Functions and its corresponding files:
   
 **Requirements to run Project:**
 
-1. Java version : 1.6
+1. Java version : 1.8
 2. IDE: Eclipse
 
 **Reports Screenshot:**
