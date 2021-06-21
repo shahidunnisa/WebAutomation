@@ -1,10 +1,10 @@
 # QualitestAutomation
 
-Project Information:
+**Project Information**:
 
 This Project is intended to validate "http://automationpractice.com/" website and its order history. Also to validate whether the personal information is updated.
 
-Tools & Frameworks:
+**Tools & Frameworks:**
 
 1. Cucumber - Used to implement the BDD(Behaviour Driven Development). This provides more readability and comprehensive testing and is understandable by each member in team.
 2. Selenium - Automation testing framework to validate the web based applications.
@@ -14,7 +14,7 @@ Tools & Frameworks:
 6. Build Automation Tool: Maven
 7. Version Control: Github
 
-Steps to run tests:
+**Steps to run tests:**
 
 1. Order a T-shirt and Validate the order history.
 Functions and its corresponding files:
@@ -30,12 +30,12 @@ Functions and its corresponding files:
   3. In order to run this particular test case, Navigate to RunnerClass.class found under "src/test/java/Com/Test/Shahi/RunnerClass". In tags, select @test1
   4. Run click on RunnerClass.class file, RunAs -> Junit
   
-Requirements to run Project:
+**Requirements to run Project:**
 
 1. Java version : 1.6
 2. IDE: Eclipse
 
-Reports Screenshot:
+**Reports Screenshot:**
 
 PDF report:
 1. PDF reports are available in below path.
