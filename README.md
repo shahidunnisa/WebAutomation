@@ -16,14 +16,14 @@ This Project is intended to validate "http://automationpractice.com/" website an
 
 **Steps to run tests:**
 
-1. Order a T-shirt and Validate the order history.
+**Order a T-shirt and Validate the order history.**
 Functions and its corresponding files:
   1. Feature file: OrderHistory.feature . This feature file is found in "src/test/resources/features" this path.
   2. Step definitions:OrderHistory.java . The corresponding step definitions are found under "src/test/java/Com/Test/Shahi/StepDefinitions/" this path.
   3. In order to run this particular test case, Navigate to RunnerClass.class found under "src/test/java/Com/Test/Shahi/RunnerClass". In tags, select @test
   4. Run click on RunnerClass.class file, RunAs -> Junit
   
-2. Update Personal Information.
+ **Update Personal Information.**
 Functions and its corresponding files:
   1. Feature file: UpdateAccountInfo.feature . This feature file is found in "src/test/resources/features" this path.
   2. Step definitions:UpdateAccountInfo.java . The corresponding step definitions are found under "src/test/java/Com/Test/Shahi/StepDefinitions/" this path.
